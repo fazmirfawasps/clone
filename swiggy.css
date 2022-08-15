@@ -1,0 +1,339 @@
+body{
+    margin: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+}
+.head{
+    width: 100%;
+    height: 740px;
+    background-color: aquama;
+    display: grid;
+    grid-template-columns: 55% 45%;
+}
+#lefthead{
+    background-color: none;
+}
+#righthead{
+    background-color: bluevio;
+}
+#forehead{
+    width: 100%;
+    height: 75px;
+    background-color: alicebe;
+    margin-top: 100px;
+   
+}
+#swiggylogo{
+    background-color: aliceble;
+    width: 300px;
+    height: 65px;
+    float: left;
+    margin-left: 240px;
+    
+    
+}
+#login{
+    background-color: alicebe;
+    width: 65px;
+    height: 55px;
+    float: left;
+    margin-left: 325px;
+    
+
+}
+#signup{
+    background-color: black;
+    width: 120px;
+    height: 65px;
+    float: left;
+    margin-left: 30px;
+    color: aliceblue;
+    padding-left: 40px;
+    
+    
+
+    
+    
+    
+}
+#foreheadsignup{
+    color: aliceblue;
+    text-decoration: none;
+    
+}
+
+
+#swiggylogo1{
+    width: 290px;
+    height: 75px;
+}
+#eye{
+    width: 50%;
+    height: 80px;
+    background-color: alicebue;
+    margin-left: 240px;
+    margin-top: 50px;
+    font-size: xx-large;
+}#nose{
+    width: 75%;
+    height: 50px;
+    background-color: aliceble;
+    margin-left: 240px;
+    padding-top: 1px;
+    font-size: 35px;
+    
+}
+#paranose{
+    margin-top: -1px;
+    color: #686b78;
+}
+#mouth{
+    width: 75%;
+    height: 100px;
+    background-color: alicebue;
+    margin-left: 240px;
+    margin-top: 20px;
+}
+#formouth{
+    width: 700px;
+    height: 80px;
+    font-size: x-large;
+    float: left;
+    background-color: #ffffff;
+    border-color: #fc8019;
+    
+    
+    
+}
+#mouthbutton{
+    width: 150px;
+    height: 75px;
+    float: left;
+    margin-top: 5px;
+    margin-left:-155px ;
+    border-left-color: #ffffff;
+    background-color: #ffffff;
+    border-color: #ffffff;
+    font-size: larger;
+    
+}
+#findfood{
+    width: 180px;
+    height: 85px;
+    background-color: #fc8019;;
+    color: #ffffff;
+    font-size: 11px;
+    border-color: #fc8019;;
+    
+
+}
+#beard{
+    width: 75%;
+    height: 40px;
+    background-color: alicebue;
+    margin-left: 240px;
+    font-size: x-large ;
+    color: #a9abb2;
+}
+.beardlocation{
+    font-size: x-large;
+    color: black;
+    float: left;
+}
+.beardlocation2{
+    font-size: large;
+    float: left;
+}
+#neck{
+    width: 75%;
+    height: 80px;
+    background-color: rb(66, 111, 150);
+    margin-left: 240px;
+    color: #686b78;
+}
+#righthead{
+    background-image: url(images/foodimage.jpeg);
+    margin-top: -177px;
+    background-size: cover;
+    
+}
+#body{
+    width: 100%;
+    height: 500px;
+    background-color: #2b1e16;
+}
+#mapaim{
+    width: 36px;
+   
+    height: 26px;
+    float: left;
+    margin-top: 28px;
+}
+#mouthlocateme{
+    margin-top: 32px;
+    font-size: 16px;
+    margin-left: 18px;
+    float: left;
+    color:#686b78 ;
+}
+#body{
+    width: 100%;
+    height: 580px;
+    background-color: #2b1e16;
+    position: relative;
+}
+#chest{
+    width: 100%;
+    height: 350px;
+    background-color: aua;
+    display: grid;
+    grid-template-columns: 33.3% 33.3% 33.3%;
+}
+.pic{
+    background-color: aqu;
+    padding-left: 230px;
+}
+.picsize{
+    height: 330px;
+    width: 180px;
+
+}
+#abdpic1{
+    width: 300px;
+    height: 50px;
+    background-color:rb(50, 22, 116);
+    float: left;
+    margin-left: 210px;
+    margin-top: ;
+    color: #fff;
+    position: relative;
+
+}
+#abdpic2{
+    width: 400px;
+    height: 50px;
+    background-color: rg(22, 116, 60);
+    float: left;
+    margin-left: 450px;
+    margin-top: px;
+    color: #ffffff;
+    position: relative;
+}
+#abdpic3{
+    width: 400px;
+    height: 50px;
+    background-color: rb(86, 116, 22);
+    float: left;
+    margin-left: 350px;
+    margin-top: 0px;
+    color: #ffffff;
+    position: relative;
+}
+.abdwrite{
+    width: 400px;
+    height: 100px;
+    
+    float: left;
+    position: relative;
+    margin: 0px 160px ;
+    font-size: larger;
+    padding-left: 12px;
+    color: #e0cbc1;
+    position: relative;
+    text-align: center;
+    
+}
+#tail{
+    width: 100%;
+    height: 900px;
+    background-color: #ffffff;
+    display: grid;
+    grid-template-columns: 1100px 520px 430px;
+    position: relative;
+
+    
+
+}
+.leftleg{
+    background-color: #ffffff;
+}
+#leftleg1{
+    width: 500px;
+    height: 130px;
+    background-color: #ffffff;
+    margin-left: 240px;
+    margin-top: 250px;
+    font-size: x-large;
+    
+}
+#leftleg2{
+    width: 500px;
+    height: 100px;
+    background-color: #ffffff;
+    margin-left: 240px;
+    font-size: x-large;
+    margin-top: -20px;
+    color: #a9abb2;
+    
+}
+#leftleg3{
+    width: 700px;
+    height: 200px;
+    background-color: #ffffff;
+    margin-left: 240px;
+    margin-top: 80px;
+    
+}
+
+.playstore{
+    width: 270px;
+}
+.apple{
+    width: 270px;
+    margin-left: 50px;
+}
+.swiggyphonepic1{
+    width: 550px;
+}
+.swiggyphonepic2{
+    width: 550px;
+    margin-top: 250px;
+}
+#feet{
+    width: 100%;
+    height: 600px;
+    background-color: black;
+    position: relative;
+    box-sizing: border-box;
+    padding-left: px;
+
+}
+#thump{
+    width: 450px;
+    height: 500px;
+    background-color: #fc819;
+    float: left;
+    margin-left: 100px;
+    padding-top: 20px;
+}
+ul{
+    list-style: none;
+
+}
+li{
+    font-size: 19px;
+    margin-top: 20px;
+    color: #fff;
+}
+#li1{
+    font-size: 23px;
+    color: #a9abb2;
+    margin-top: 50px;
+}
+#lastpic{
+    border: 3px solid floralwhite;
+    border-radius: 12px;
+    margin-top: 30px;
+    width: 250px;
+}
